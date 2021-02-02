@@ -610,7 +610,6 @@ const styles = StyleSheet.create({
         borderTopRightRadius: 0,
     },
     dropDownItem: {
-        paddingVertical: 8,
         width: '100%',
         flexDirection: 'row',
         justifyContent: 'center'
